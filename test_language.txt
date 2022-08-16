@@ -1,0 +1,20 @@
+rat number >> 99 div 3 & ss >> 7 plus 4 mul 3 & kk >> 45 :
+spe name >> norik :
+fourni >> name same norik :
+commencer
+ss >> kk minus 1 :
+fourni >> number equ 32 :
+commencer
+imprimer >> yes, number is 32 ;) :
+cesser
+name >> alisa :
+cesser
+rat tmp >> 99 plus kk :
+kk >> 236 :
+imprimer :u:m >> tmp plus 456 all working :
+cycle >> ss lore 50 and name diff dodge :
+commencer
+imprimer >> nicee :
+ss >> ss plus 1 :
+cesser
+memory<>
